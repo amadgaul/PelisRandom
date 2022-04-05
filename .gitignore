@@ -1,0 +1,8 @@
+*.png
+*.log
+*.py
+*.list
+*.txt
+videos/
+downloads/
+test.sh
