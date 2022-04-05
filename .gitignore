@@ -4,5 +4,7 @@
 *.list
 *.txt
 videos/
+json/
 downloads/
 test.sh
+scan.sh
