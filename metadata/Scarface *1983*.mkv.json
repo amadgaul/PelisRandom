@@ -1,10 +1,9 @@
 {
-  "id":"XXX"{
     "title":"Scarface",
-    "file":"/sdcard/videos/Scarface *1983*.avi",
+    "file":"/sdcard/videos/Scarface *1983*.mkv",
     "start":"000",
-    "final":"9774",
-    "total":"9774.320000",
+    "final":"9777",
+    "total":"9777.954000",
     "age":"1983",
     "desc":"",
     "director":"",
@@ -13,5 +12,4 @@
     "wide":"169",
     "censured":"",
     "extra":""
-  }
 }
