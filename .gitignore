@@ -6,5 +6,6 @@
 videos/
 json/
 downloads/
+.Trash-1000/
 test.sh
 scan.sh
