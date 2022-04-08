@@ -7,5 +7,6 @@ videos/
 json/
 downloads/
 .Trash-1000/
+backups/
 test.sh
 scan.sh
