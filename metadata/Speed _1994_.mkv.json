@@ -6,11 +6,13 @@
   "total": "6670.613000",
   "age": "1994",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Jan de Bont",
+  "genre": [
+    { "code" :"AC", "name": "Acción" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1575128"
 }

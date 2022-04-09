@@ -6,11 +6,14 @@
   "total": "7177.685000",
   "age": "1997",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Wolfgang Petersen",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"TH", "name": "Thriller" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1025568"
 }

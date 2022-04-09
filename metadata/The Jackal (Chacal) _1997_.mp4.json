@@ -6,11 +6,14 @@
   "total": "7153.371422",
   "age": "1997",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Michael Caton-Jones",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"INT", "name": "Intriga" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "3630768"
 }

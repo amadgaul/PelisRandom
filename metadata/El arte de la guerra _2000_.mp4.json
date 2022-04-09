@@ -6,11 +6,13 @@
   "total": "6799.984422",
   "age": "2000",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Christian Duguay",
+  "genre": [
+    { "code" :"AC", "name": "Acción" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "648888"
 }

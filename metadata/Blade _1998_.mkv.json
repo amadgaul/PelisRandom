@@ -6,11 +6,15 @@
   "total": "6918.087000",
   "age": "1998",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Stephen Norrington",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"FAN", "name": "Fantástico" },
+    { "code" :"TE", "name": "Terror" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1221020"
 }

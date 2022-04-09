@@ -7,10 +7,12 @@
   "age": "1983",
   "desc": "",
   "director": "",
-  "genere": "",
+  "genre": [
+    { "code" :"DR", "name": "Drama" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "2346036"
 }

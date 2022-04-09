@@ -6,11 +6,13 @@
   "total": "6638.054000",
   "age": "1997",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Simon West",
+  "genre": [
+    { "code" :"AC", "name": "Acción" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1274468"
 }

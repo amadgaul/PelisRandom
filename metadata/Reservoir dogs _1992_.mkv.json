@@ -6,11 +6,14 @@
   "total": "5700.167000",
   "age": "1992",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Quentin Tarantino",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"TH", "name": "Thriller" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "772212"
 }

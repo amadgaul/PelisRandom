@@ -6,11 +6,14 @@
   "total": "8418.115933",
   "age": "1989",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "James Cameron",
+  "genre": [
+    { "code" :"AV", "name": "Aventuras" },
+    { "code" :"C-F", "name": "Ciencia ficción" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1244136"
 }
