@@ -6,11 +6,14 @@
   "total": "8281.286444",
   "age": "1992",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Rob Reiner",
+  "genre": [
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"INT", "name": "Intriga" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1520792"
 }

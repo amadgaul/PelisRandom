@@ -6,11 +6,16 @@
   "total": "6479.360000",
   "age": "1989",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Robert Zemeckis",
+  "genre": [
+    { "code" :"AV", "name": "Aventuras" },
+    { "code" :"C-F", "name": "Ciencia ficción" },
+    { "code" :"CO", "name": "Comedia" },
+    { "code" :"FAN", "name": "Fantástico" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1796184"
 }

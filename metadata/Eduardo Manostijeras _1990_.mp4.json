@@ -6,11 +6,15 @@
   "total": "6045.166444",
   "age": "1990",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Tim Burton",
+  "genre": [
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"FAN", "name": "Fantástico" },
+    { "code" :"RO", "name": "Romance" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1831976"
 }

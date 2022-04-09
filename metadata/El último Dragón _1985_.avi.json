@@ -6,11 +6,14 @@
   "total": "6496.031208",
   "age": "1985",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Michael Schultz",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"CO", "name": "Comedia" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "1821596"
 }

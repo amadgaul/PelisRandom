@@ -6,11 +6,14 @@
   "total": "6993.385933",
   "age": "1986",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Sidney J. Furie",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"BE", "name": "Bélico" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "596176"
 }

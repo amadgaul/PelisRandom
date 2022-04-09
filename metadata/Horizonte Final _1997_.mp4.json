@@ -6,11 +6,14 @@
   "total": "5519.059589",
   "age": "1997",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Paul W.S. Anderson",
+  "genre": [
+    { "code" :"C-F", "name": "Ciencia ficción" },
+    { "code" :"TE", "name": "Terror" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "2543532"
 }

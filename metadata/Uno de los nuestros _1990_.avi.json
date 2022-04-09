@@ -6,11 +6,14 @@
   "total": "8379.760000",
   "age": "1990",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "Martin Scorsese",
+  "genre": [
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"TH", "name": "Thriller" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "809096"
 }

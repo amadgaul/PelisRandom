@@ -6,11 +6,15 @@
   "total": "6443.560622",
   "age": "1999",
   "desc": "",
-  "director": "",
-  "genere": "",
+  "director": "M. Night Shyamalan",
+  "genre": [
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"INT", "name": "Intriga" },
+    { "code" :"TE", "name": "Terror" }
+  ],
   "volume": "100",
   "wide": "169",
-  "censured": "",
+  "censored": "",
   "extra": "",
   "size": "3087596"
 }
