@@ -2,15 +2,13 @@ name: json movies check
 on:
   pull_request:
     branches: [master]
-jobs:
-  make-image:
-    runs-on: ubuntu-latest
-    - name: Checkout
-    uses: actions/checkout@v3
-    with:
-      ref: ${{ github.event.pull_request.head.sha }}
-      path: main
-    - name: Build images
-        run: |
-              sudo apt-get update
-              sudo apt-get install jq
+  runs-on: ubuntu-latest
+  - name: Checkout
+  uses: actions/checkout@v3
+  with:
+    ref: ${{ github.event.pull_request.head.sha }}
+    path: main
+  - name: Build images
+      run: |
+            sudo apt-get update
+            sudo apt-get install jq
