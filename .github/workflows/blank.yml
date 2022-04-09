@@ -14,7 +14,7 @@ jobs:
       - name: Check json files
         run: |
             cd metadata
-            for n in *; do printf '%s\n' "$n"; done >> json.list
+            for n in *; do printf '%s\n' "$n"; done >> ../json.list
             while read -r i; do
               if jq -e . >/dev/null 2>&1 <<<"$(cat $i)"; then
                 echo "Parsed JSON successfully and got something other than false/null"
@@ -22,4 +22,4 @@ jobs:
                 echo "Failed to parse JSON $i, or got false/null"
                 exit 1
               fi
-            done < json.list
+            done < ../json.list
