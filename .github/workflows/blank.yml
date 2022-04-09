@@ -1,4 +1,4 @@
-name: CI
+name: Checking movies json files
 
 on:
   push:
@@ -17,9 +17,9 @@ jobs:
             for n in *; do printf '%s\n' "$n"; done >> ../json.list
             while read -r i; do
               if jq -e . >/dev/null 2>&1 <<<"$(cat $i)"; then
-                echo "Parsed JSON successfully and got something other than false/null"
+                echo -e "Parsed JSON successfully.\n $i"
               else
-                echo "Failed to parse JSON $i, or got false/null"
+                echo "Failed to parse JSON $i"
                 exit 1
               fi
             done < ../json.list
