@@ -1,0 +1,18 @@
+{
+  "title": "El arte de la guerra",
+  "file": "/sdcard/videos/El arte de la guerra *2000*.mp4",
+  "start": "000",
+  "final": "6799",
+  "total": "6799.984422",
+  "age": "2000",
+  "desc": "",
+  "director": "Christian Duguay",
+  "genre": [
+    { "code" :"AC", "name": "Acción" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "648888"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Evasión o victoria",
+  "file": "/sdcard/videos/Evasión o victoria *1981*.avi",
+  "start": "000",
+  "final": "6706",
+  "total": "6706.800000",
+  "age": "1981",
+  "desc": "",
+  "director": "John Huston",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"DR", "name": "Drama" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "799480"
+}

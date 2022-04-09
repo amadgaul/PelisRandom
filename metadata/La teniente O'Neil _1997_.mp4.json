@@ -1,0 +1,19 @@
+{
+  "title": "La teniente O'Neil",
+  "file": "/sdcard/videos/La teniente O'Neil *1997*.mp4",
+  "start": "000",
+  "final": "7206",
+  "total": "7206.243256",
+  "age": "1997",
+  "desc": "",
+  "director": "Ridley Scott",
+  "genre": [
+    { "code" :"BE", "name": "Bélico" },
+    { "code" :"DR", "name": "Drama" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "791056"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "El sexto sentido",
+  "file": "/sdcard/videos/El sexto sentido *1999*.mp4",
+  "start": "000",
+  "final": "6443",
+  "total": "6443.560622",
+  "age": "1999",
+  "desc": "",
+  "director": "M. Night Shyamalan",
+  "genre": [
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"INT", "name": "Intriga" },
+    { "code" :"TE", "name": "Terror" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "3087596"
+}

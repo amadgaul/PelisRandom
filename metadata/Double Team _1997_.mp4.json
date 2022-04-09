@@ -1,0 +1,18 @@
+{
+  "title": "Double Team",
+  "file": "/sdcard/videos/Double Team *1997*.mp4",
+  "start": "000",
+  "final": "5353",
+  "total": "5353.286444",
+  "age": "1997",
+  "desc": "",
+  "director": "Tsui Hark",
+  "genre": [
+    { "code" :"AC", "name": "Acción" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1823524"
+}

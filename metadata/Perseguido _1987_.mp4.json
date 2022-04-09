@@ -1,0 +1,19 @@
+{
+  "title": "Perseguido",
+  "file": "/sdcard/videos/Perseguido *1987*.mp4",
+  "start": "000",
+  "final": "5795",
+  "total": "5795.496444",
+  "age": "1987",
+  "desc": "",
+  "director": "Paul Michael Glaser",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"C-F", "name": "Ciencia ficción" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "499204"
+}

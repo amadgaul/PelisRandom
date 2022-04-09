@@ -1,0 +1,18 @@
+{
+  "title": "La delgada línea roja ",
+  "file": "/sdcard/videos/La delgada línea roja **1998*.mp4",
+  "start": "000",
+  "final": "10246",
+  "total": "10246.997000",
+  "age": "1998",
+  "desc": "",
+  "director": "Terrence Malick",
+  "genre": [
+    { "code" :"BE", "name": "Bélico" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "940916"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "Dias de trueno",
+  "file": "/sdcard/videos/Dias de trueno *1990*.avi",
+  "start": "000",
+  "final": "6170",
+  "total": "6170.880000",
+  "age": "1990",
+  "desc": "",
+  "director": "Tony Scott",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"RO", "name": "Romance" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "2341956"
+}

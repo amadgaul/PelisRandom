@@ -1,0 +1,19 @@
+{
+  "title": "Abyss",
+  "file": "/sdcard/videos/Abyss *1989*.mp4",
+  "start": "014",
+  "final": "8124",
+  "total": "8418.115933",
+  "age": "1989",
+  "desc": "",
+  "director": "James Cameron",
+  "genre": [
+    { "code" :"AV", "name": "Aventuras" },
+    { "code" :"C-F", "name": "Ciencia ficción" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1244136"
+}

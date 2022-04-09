@@ -1,0 +1,19 @@
+{
+  "title": "Algunos hombres buenos",
+  "file": "/sdcard/videos/Algunos hombres buenos *1992*.mp4",
+  "start": "000",
+  "final": "8281",
+  "total": "8281.286444",
+  "age": "1992",
+  "desc": "",
+  "director": "Rob Reiner",
+  "genre": [
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"INT", "name": "Intriga" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1520792"
+}

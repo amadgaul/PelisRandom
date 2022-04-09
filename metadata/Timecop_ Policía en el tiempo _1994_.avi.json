@@ -1,0 +1,20 @@
+{
+  "title": "Timecop: Policía en el tiempo",
+  "file": "/sdcard/videos/Timecop: Policía en el tiempo *1994*.avi",
+  "start": "000",
+  "final": "5687",
+  "total": "5639.520000",
+  "age": "1994",
+  "desc": "",
+  "director": "Peter Hyams",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"C-F", "name": "Ciencia ficción" },
+    { "code" :"FAN", "name": "Fantástico" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1588160"
+}

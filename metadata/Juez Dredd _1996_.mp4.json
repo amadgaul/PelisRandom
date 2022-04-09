@@ -1,0 +1,20 @@
+{
+  "title": "Juez Dredd",
+  "file": "/sdcard/videos/Juez Dredd *1996*.mp4",
+  "start": "000",
+  "final": "5763",
+  "total": "5763.095389",
+  "age": "1995",
+  "desc": "",
+  "director": "Danny Cannon",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"C-F", "name": "Ciencia ficción" },
+    { "code" :"FAN", "name": "Fantástico" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "493272"
+}

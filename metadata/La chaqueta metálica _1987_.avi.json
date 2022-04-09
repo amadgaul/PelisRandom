@@ -1,0 +1,19 @@
+{
+  "title": "La chaqueta metálica",
+  "file": "/sdcard/videos/La chaqueta metálica *1987*.avi",
+  "start": "010",
+  "final": "6206",
+  "total": "6704.720000",
+  "age": "1987",
+  "desc": "",
+  "director": "Stanley Kubrick",
+  "genre": [
+    { "code" :"BE", "name": "Bélico" },
+    { "code" :"DR", "name": "Drama" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1434076"
+}

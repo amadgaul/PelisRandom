@@ -1,0 +1,19 @@
+{
+  "title": "La última fortaleza",
+  "file": "/sdcard/videos/La última fortaleza *2001*.avi",
+  "start": "000",
+  "final": "7886",
+  "total": "7886.432814",
+  "age": "2001",
+  "desc": "",
+  "director": "Rod Lurie",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"DR", "name": "Drama" }
+  ],
+  "volume": "120",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "2239592"
+}

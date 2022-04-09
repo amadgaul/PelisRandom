@@ -1,0 +1,19 @@
+{
+  "title": "El último boy scout",
+  "file": "/sdcard/videos/El último boy scout *1991*.avi",
+  "start": "000",
+  "final": "6324",
+  "total": "6324.985333",
+  "age": "1991",
+  "desc": "",
+  "director": "Tony Scott",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"CO", "name": "Comedia" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1717900"
+}

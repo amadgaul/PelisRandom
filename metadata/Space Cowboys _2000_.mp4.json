@@ -1,0 +1,19 @@
+{
+  "title": "Space Cowboys",
+  "file": "/sdcard/videos/Space Cowboys *2000*.mp4",
+  "start": "000",
+  "final": "7828",
+  "total": "7828.199767",
+  "age": "2000",
+  "desc": "",
+  "director": "Clint Eastwood",
+  "genre": [
+    { "code" :"AV", "name": "Aventuras" },
+    { "code" :"DR", "name": "Drama" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "675360"
+}

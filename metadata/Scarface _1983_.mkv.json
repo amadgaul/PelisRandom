@@ -1,0 +1,18 @@
+{
+  "title": "Scarface",
+  "file": "/sdcard/videos/Scarface *1983*.mkv",
+  "start": "000",
+  "final": "9777",
+  "total": "9777.954000",
+  "age": "1983",
+  "desc": "",
+  "director": "",
+  "genre": [
+    { "code" :"DR", "name": "Drama" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "2346036"
+}

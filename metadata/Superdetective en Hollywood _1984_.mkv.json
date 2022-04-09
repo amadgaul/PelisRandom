@@ -1,0 +1,19 @@
+{
+  "title": "Superdetective en Hollywood",
+  "file": "/sdcard/videos/Superdetective en Hollywood *1984*.mkv",
+  "start": "000",
+  "final": "6307",
+  "total": "6307.424000",
+  "age": "1984",
+  "desc": "",
+  "director": "Martin Brest",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"CO", "name": "Comedia" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "3836488"
+}

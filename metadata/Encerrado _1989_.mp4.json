@@ -1,0 +1,19 @@
+{
+  "title": "Encerrado",
+  "file": "/sdcard/videos/Encerrado *1989*.mp4",
+  "start": "000",
+  "final": "6512",
+  "total": "6512.802533",
+  "age": "1989",
+  "desc": "",
+  "director": "John Flynn",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"DR", "name": "Drama" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1731628"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Pulp fiction",
+  "file": "/sdcard/videos/Pulp fiction *1994*.avi",
+  "start": "000",
+  "final": "8878",
+  "total": "8878.480000",
+  "age": "1994",
+  "desc": "",
+  "director": "Quentin Tarantino",
+  "genre": [
+    { "code" :"TH", "name": "Thriller" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1433640"
+}

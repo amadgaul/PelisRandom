@@ -1,0 +1,19 @@
+{
+  "title": "Arma letal",
+  "file": "/sdcard/videos/Arma letal *1987*.mkv",
+  "start": "016",
+  "final": "6421",
+  "total": "6577.088000",
+  "age": "1987",
+  "desc": "",
+  "director": "Richard Donner",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"CO", "name": "Comedia" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "2858436"
+}

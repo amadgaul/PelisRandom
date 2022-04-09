@@ -1,0 +1,18 @@
+{
+  "title": "60 Segundos",
+  "file": "/sdcard/videos/60 Segundos *2000*.mkv",
+  "start": "000",
+  "final": "6786",
+  "total": "6786.721000",
+  "age": "2000",
+  "desc": "",
+  "director": "Dominic Sena",
+  "genre": [
+    { "code": "AC", "name": "Acción" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "1056780"
+}

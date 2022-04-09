@@ -1,0 +1,20 @@
+{
+  "title": "Flash Gordon",
+  "file": "/sdcard/videos/Flash Gordon *1980*.mp4",
+  "start": "000",
+  "final": "6687",
+  "total": "6687.846444",
+  "age": "1980",
+  "desc": "",
+  "director": "Mike Hodges",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"C-F", "name": "Ciencia ficción" },
+    { "code" :"FAN", "name": "Fantástico" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "577372"
+}

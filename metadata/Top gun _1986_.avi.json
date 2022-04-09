@@ -1,0 +1,20 @@
+{
+  "title": "Top gun",
+  "file": "/sdcard/videos/Top gun *1986*.avi",
+  "start": "000",
+  "final": "6311",
+  "total": "6311.880000",
+  "age": "1986",
+  "desc": "",
+  "director": "Tony Scott",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"RO", "name": "Romance" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "2082008"
+}

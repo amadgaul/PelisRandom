@@ -1,0 +1,23 @@
+{
+  "title": "Profundidad seis",
+  "file": "/sdcard/videos/Profundidad seis *1989*.mp4",
+  "start": "000",
+  "final": "5628",
+  "total": "5628.216444",
+  "age": "1989",
+  "desc": "",
+  "director": "Sean S. Cunningham",
+  "genre": [
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"C-F", "name": "Ciencia ficción" },
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"RO", "name": "Romance" },
+    { "code" :"TE", "name": "Terror" },
+    { "code" :"TH", "name": "Thriller" }
+  ],
+  "volume": "088",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "536340"
+}

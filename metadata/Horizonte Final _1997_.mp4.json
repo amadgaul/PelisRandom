@@ -1,0 +1,19 @@
+{
+  "title": "Horizonte Final",
+  "file": "/sdcard/videos/Horizonte Final *1997*.mp4",
+  "start": "000",
+  "final": "5519",
+  "total": "5519.059589",
+  "age": "1997",
+  "desc": "",
+  "director": "Paul W.S. Anderson",
+  "genre": [
+    { "code" :"C-F", "name": "Ciencia ficción" },
+    { "code" :"TE", "name": "Terror" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "2543532"
+}

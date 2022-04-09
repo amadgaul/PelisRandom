@@ -1,0 +1,18 @@
+{
+  "title": "Air America",
+  "file": "/sdcard/videos/Air America *1990*.mp4",
+  "start": "056",
+  "final": "6423",
+  "total": "6479.536444",
+  "age": "1990",
+  "desc": "",
+  "director": "Roger Spottiswoode",
+  "genre": [
+    { "code" :"AV", "name": "Aventuras" }
+  ],
+  "volume": "100",
+  "wide": "169",
+  "censored": "",
+  "extra": "",
+  "size": "710268"
+}
