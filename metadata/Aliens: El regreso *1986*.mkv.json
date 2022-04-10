@@ -1,0 +1,18 @@
+{
+  "title": "Aliens: El regreso",
+  "file": "/sdcard/videos/Aliens: El regreso *1986*.mkv",
+  "start": "000",
+  "final": "8888",
+  "total": "8888.053000",
+  "age": "1986",
+  "desc": "",
+  "director": "James Cameron",
+  "genre": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1653020"
+}
