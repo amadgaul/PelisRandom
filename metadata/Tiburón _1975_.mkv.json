@@ -1,0 +1,18 @@
+{
+  "title": "Tiburón",
+  "file": "/sdcard/videos/Tiburón *1975*.mkv",
+  "start": "000",
+  "final": "7131",
+  "total": "7131.021000",
+  "age": "1975",
+  "desc": "",
+  "director": "Steven Spielberg",
+  "genre": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1189048"
+}
