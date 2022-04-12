@@ -6,9 +6,10 @@
   "total": "10223.999000",
   "age": "1995",
   "desc": "",
-  "director": "",
+  "director": "Mel Gibson",
   "genre": [
-    { "code": "", "name": "" }
+    { "code" :"AV", "name": "Aventuras" },
+    { "code" :"DR", "name": "Drama" }
   ],
   "volume": "100",
   "wide": "16:9",

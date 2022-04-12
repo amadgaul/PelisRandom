@@ -6,9 +6,9 @@
   "total": "6885.048000",
   "age": "1986",
   "desc": "",
-  "director": "",
+  "director": "Martin Scorsese",
   "genre": [
-    { "code": "", "name": "" }
+    { "code" :"DR", "name": "Drama" }
   ],
   "volume": "100",
   "wide": "16:9",
