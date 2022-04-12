@@ -8,7 +8,8 @@
   "desc": "",
   "director": "Steven Spielberg",
   "genre": [
-    { "code": "", "name": "" }
+    { "code" :"DR", "name": "Drama" },
+    { "code" :"TE", "name": "Terror" }
   ],
   "volume": "100",
   "wide": "16:9",
