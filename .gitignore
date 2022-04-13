@@ -1,5 +1,5 @@
 *.sh
-.json
+*.json
 *.png
 *.log
 *.py
