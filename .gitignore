@@ -1,5 +1,5 @@
 *.sh
-
+*.conf
 *.png
 *.log
 *.py
@@ -12,3 +12,4 @@ downloads/
 backups/
 test.sh
 scan.sh
+play_random.json
