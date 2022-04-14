@@ -6,9 +6,11 @@
   "total": "7258.501000",
   "age": "1979",
   "desc": "",
-  "director": "",
+  "director": "Lewis Gilbert",
   "genre": [
-    { "code": "", "name": "" }
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"AV", "name": "Aventuras" },
+    { "code" :"C-F", "name": "Ciencia ficción" }
   ],
   "volume": "100",
   "wide": "16:9",

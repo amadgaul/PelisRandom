@@ -6,9 +6,10 @@
   "total": "6149.523000",
   "age": "1971",
   "desc": "",
-  "director": "",
+  "director": "Don Siegel",
   "genre": [
-    { "code": "", "name": "" }
+    { "code" :"AC", "name": "Acción" },
+    { "code" :"TH", "name": "Thriller" }
   ],
   "volume": "100",
   "wide": "16:9",
