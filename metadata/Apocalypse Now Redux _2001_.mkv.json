@@ -7,7 +7,7 @@
   "age": "2001",
   "desc": "",
   "director": "Francis Ford Coppola",
-  "genre": [
+  "genres": [
     { "code": "", "name": "" }
   ],
   "volume": "100",

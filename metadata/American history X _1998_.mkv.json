@@ -7,7 +7,7 @@
   "age": "1998",
   "desc": "",
   "director": "Tony Kaye",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" }
   ],
   "volume": "100",

@@ -7,7 +7,7 @@
   "age": "1991",
   "desc": "",
   "director": "Kathryn Bigelow",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" }
   ],
   "volume": "100",

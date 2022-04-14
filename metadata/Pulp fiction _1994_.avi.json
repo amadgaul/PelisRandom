@@ -7,7 +7,7 @@
   "age": "1994",
   "desc": "",
   "director": "Quentin Tarantino",
-  "genre": [
+  "genres": [
     { "code" :"TH", "name": "Thriller" }
   ],
   "volume": "100",

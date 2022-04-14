@@ -7,7 +7,7 @@
   "age": "1975",
   "desc": "",
   "director": "Steven Spielberg",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" },
     { "code" :"TE", "name": "Terror" }
   ],

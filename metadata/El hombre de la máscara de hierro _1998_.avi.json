@@ -7,7 +7,7 @@
   "age": "1998",
   "desc": "",
   "director": "Randall Wallace",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"AV", "name": "Aventuras" },
     { "code" :"DR", "name": "Drama" }

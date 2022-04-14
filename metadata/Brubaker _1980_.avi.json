@@ -7,7 +7,7 @@
   "age": "1980",
   "desc": "",
   "director": "Stuart Rosenberg",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" }
   ],
   "volume": "100",

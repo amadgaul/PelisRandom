@@ -7,7 +7,7 @@
   "age": "1971",
   "desc": "",
   "director": "Don Siegel",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"TH", "name": "Thriller" }
   ],

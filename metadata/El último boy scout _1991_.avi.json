@@ -7,7 +7,7 @@
   "age": "1991",
   "desc": "",
   "director": "Tony Scott",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"CO", "name": "Comedia" }
   ],

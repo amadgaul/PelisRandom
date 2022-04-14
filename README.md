@@ -14,7 +14,7 @@ El formato de los archivos JSON es el siguiente:
   "age": "[MOVIE_YEAR]",
   "desc": "[DESCRIPTION]",
   "director": "[MOVIE_DIRECTOR]",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"RO", "name": "Romance" }
   ],

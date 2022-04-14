@@ -7,7 +7,7 @@
   "age": "1985",
   "desc": "",
   "director": "Michael Schultz",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"CO", "name": "Comedia" }
   ],

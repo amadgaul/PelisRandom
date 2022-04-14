@@ -7,7 +7,7 @@
   "age": "1993",
   "desc": "",
   "director": "George Pan Cosmatos",
-  "genre": [
+  "genres": [
     { "code" :"WE", "name": "Western" }
   ],
   "volume": "100",

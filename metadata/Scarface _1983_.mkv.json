@@ -7,7 +7,7 @@
   "age": "1983",
   "desc": "",
   "director": "Brian De Palma",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" }
   ],
   "volume": "100",

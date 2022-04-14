@@ -7,7 +7,7 @@
   "age": "1985",
   "desc": "",
   "director": "Simon Wincer",
-  "genre": [
+  "genres": [
     { "code" :"C-F", "name": "Ciencia ficción" }
   ],
   "volume": "100",

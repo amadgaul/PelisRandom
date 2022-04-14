@@ -7,7 +7,7 @@
   "age": "1990",
   "desc": "",
   "director": "Joe Dante",
-  "genre": [
+  "genres": [
     { "code" :"AV", "name": "Aventuras" },
     { "code" :"CO", "name": "Comedia" },
     { "code" :"FAN", "name": "Fantástico" },

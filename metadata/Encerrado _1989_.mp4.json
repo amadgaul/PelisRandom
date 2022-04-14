@@ -7,7 +7,7 @@
   "age": "1989",
   "desc": "",
   "director": "John Flynn",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"DR", "name": "Drama" }
   ],

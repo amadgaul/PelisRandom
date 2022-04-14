@@ -7,7 +7,7 @@
   "age": "1999",
   "desc": "",
   "director": "Troy Duffy",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" }
   ],
   "volume": "100",

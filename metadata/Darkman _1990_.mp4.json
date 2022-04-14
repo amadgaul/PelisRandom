@@ -7,7 +7,7 @@
   "age": "1990",
   "desc": "",
   "director": "Sam Raimi",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"C-F", "name": "Ciencia ficción" },
     { "code" :"FAN", "name": "Fantástico" }

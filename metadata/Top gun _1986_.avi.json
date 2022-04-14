@@ -7,7 +7,7 @@
   "age": "1986",
   "desc": "",
   "director": "Tony Scott",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"DR", "name": "Drama" },
     { "code" :"RO", "name": "Romance" }

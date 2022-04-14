@@ -7,7 +7,7 @@
   "age": "1990",
   "desc": "",
   "director": "John McTiernan",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"INT", "name": "Intriga" }
   ],

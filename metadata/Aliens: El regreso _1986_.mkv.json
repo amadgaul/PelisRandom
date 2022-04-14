@@ -7,7 +7,7 @@
   "age": "1986",
   "desc": "",
   "director": "James Cameron",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"C-F", "name": "Ciencia ficción" }
   ],

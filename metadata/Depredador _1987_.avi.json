@@ -7,7 +7,7 @@
   "age": "1987",
   "desc": "",
   "director": "John McTiernan",
-  "genre": [
+  "genres": [
     { "code": "", "name": "" }
   ],
   "volume": "100",
