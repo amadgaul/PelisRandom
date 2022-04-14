@@ -1,9 +1,11 @@
 # PelisRandom
+
 Información sobre películas de los 70's 80's 90's
 
 ## Documentación
 
 El formato de los archivos JSON es el siguiente:
+
 ```json
 {
   "title": "[MOVIE_TITLE]",
@@ -27,6 +29,7 @@ El formato de los archivos JSON es el siguiente:
 ```
 
 La lista de géneros disponibles es la siguiente:
+
 ```json
 [
   { "code" :"AC", "name": "Acción" },
