@@ -1,0 +1,18 @@
+{
+  "title": "Gremlins II",
+  "file": "/home/son/Vídeos/Gremlins II *1990*.avi",
+  "start": "000",
+  "final": "6123",
+  "total": "6123.000000",
+  "age": "1990",
+  "desc": "",
+  "director": "",
+  "genre": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1431824"
+}
