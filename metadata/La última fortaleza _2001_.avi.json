@@ -7,7 +7,7 @@
   "age": "2001",
   "desc": "",
   "director": "Rod Lurie",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"DR", "name": "Drama" }
   ],

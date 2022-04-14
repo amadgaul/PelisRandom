@@ -7,7 +7,7 @@
   "age": "1983",
   "desc": "",
   "director": "John Badham",
-  "genre": [
+  "genres": [
     { "code" :"C-F", "name": "Ciencia ficción" },
     { "code" :"INT", "name": "Intriga" },
     { "code" :"TH", "name": "Thriller" }

@@ -7,7 +7,7 @@
   "age": "1997",
   "desc": "",
   "director": "Ridley Scott",
-  "genre": [
+  "genres": [
     { "code" :"BE", "name": "Bélico" },
     { "code" :"DR", "name": "Drama" }
   ],

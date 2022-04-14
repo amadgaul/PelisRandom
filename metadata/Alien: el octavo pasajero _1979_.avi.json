@@ -7,7 +7,7 @@
   "age": "1979",
   "desc": "",
   "director": "Ridley Scott",
-  "genre": [
+  "genres": [
     { "code": "", "name": "" }
   ],
   "volume": "100",

@@ -7,7 +7,7 @@
   "age": "1971",
   "desc": "",
   "director": "Lee H. Katzin",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"DR", "name": "Drama" }
   ],

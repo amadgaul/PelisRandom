@@ -7,7 +7,7 @@
   "age": "1995",
   "desc": "",
   "director": "Mel Gibson",
-  "genre": [
+  "genres": [
     { "code" :"AV", "name": "Aventuras" },
     { "code" :"DR", "name": "Drama" }
   ],

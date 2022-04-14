@@ -7,7 +7,7 @@
   "age": "1994",
   "desc": "",
   "director": "Jan de Bont",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" }
   ],
   "volume": "100",

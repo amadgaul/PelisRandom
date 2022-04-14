@@ -7,7 +7,7 @@
   "age": "1981",
   "desc": "",
   "director": "George Miller",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"C-F", "name": "Ciencia ficción" }
   ],

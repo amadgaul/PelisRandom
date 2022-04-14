@@ -6,9 +6,12 @@
   "total": "6123.000000",
   "age": "1990",
   "desc": "",
-  "director": "",
-  "genre": [
-    { "code": "", "name": "" }
+  "director": "Joe Dante",
+  "genres": [
+    { "code" :"AV", "name": "Aventuras" },
+    { "code" :"CO", "name": "Comedia" },
+    { "code" :"FAN", "name": "Fantástico" },
+    { "code" :"TE", "name": "Terror" }
   ],
   "volume": "100",
   "wide": "16:9",

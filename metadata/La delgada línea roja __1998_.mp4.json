@@ -7,7 +7,7 @@
   "age": "1998",
   "desc": "",
   "director": "Terrence Malick",
-  "genre": [
+  "genres": [
     { "code" :"BE", "name": "Bélico" }
   ],
   "volume": "100",

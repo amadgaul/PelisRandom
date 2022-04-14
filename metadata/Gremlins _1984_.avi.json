@@ -6,9 +6,11 @@
   "total": "6116.960000",
   "age": "1984",
   "desc": "",
-  "director": "",
-  "genre": [
-    { "code": "", "name": "" }
+  "director": "Chris Columbus",
+  "genres": [
+    { "code" :"CO", "name": "Comedia" },
+    { "code" :"FAN", "name": "Fantástico" },
+    { "code" :"TE", "name": "Terror" }
   ],
   "volume": "100",
   "wide": "16:9",

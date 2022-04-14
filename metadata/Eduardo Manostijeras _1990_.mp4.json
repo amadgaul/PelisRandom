@@ -7,7 +7,7 @@
   "age": "1990",
   "desc": "",
   "director": "Tim Burton",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" },
     { "code" :"FAN", "name": "Fantástico" },
     { "code" :"RO", "name": "Romance" }

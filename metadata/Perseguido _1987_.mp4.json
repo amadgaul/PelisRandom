@@ -7,7 +7,7 @@
   "age": "1987",
   "desc": "",
   "director": "Paul Michael Glaser",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"C-F", "name": "Ciencia ficción" }
   ],

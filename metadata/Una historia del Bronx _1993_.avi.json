@@ -7,7 +7,7 @@
   "age": "1993",
   "desc": "",
   "director": "Robert De Niro",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" }
   ],
   "volume": "100",

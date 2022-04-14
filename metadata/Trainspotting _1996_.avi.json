@@ -7,7 +7,7 @@
   "age": "1996",
   "desc": "",
   "director": "Danny Boyle",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" }
   ],
   "volume": "100",

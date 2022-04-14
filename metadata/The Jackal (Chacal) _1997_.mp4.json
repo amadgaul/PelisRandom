@@ -7,7 +7,7 @@
   "age": "1997",
   "desc": "",
   "director": "Michael Caton-Jones",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"INT", "name": "Intriga" }
   ],

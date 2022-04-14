@@ -7,7 +7,7 @@
   "age": "1973",
   "desc": "",
   "director": "George Roy Hill",
-  "genre": [
+  "genres": [
     { "code" :"CO", "name": "Comedia" },
     { "code" :"DR", "name": "Drama" },
     { "code" :"INT", "name": "Intriga" }

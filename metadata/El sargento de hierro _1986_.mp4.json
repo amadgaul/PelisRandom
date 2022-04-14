@@ -7,7 +7,7 @@
   "age": "1986",
   "desc": "",
   "director": "Clint Eastwood",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"BE", "name": "Bélico" },
     { "code" :"DR", "name": "Drama" }

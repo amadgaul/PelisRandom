@@ -7,7 +7,7 @@
   "age": "1981",
   "desc": "",
   "director": "John Huston",
-  "genre": [
+  "genres": [
     { "code" :"AC", "name": "Acción" },
     { "code" :"DR", "name": "Drama" }
   ],

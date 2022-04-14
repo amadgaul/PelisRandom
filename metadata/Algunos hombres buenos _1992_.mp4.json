@@ -7,7 +7,7 @@
   "age": "1992",
   "desc": "",
   "director": "Rob Reiner",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" },
     { "code" :"INT", "name": "Intriga" }
   ],

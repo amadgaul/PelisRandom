@@ -7,7 +7,7 @@
   "age": "1999",
   "desc": "",
   "director": "M. Night Shyamalan",
-  "genre": [
+  "genres": [
     { "code" :"DR", "name": "Drama" },
     { "code" :"INT", "name": "Intriga" },
     { "code" :"TE", "name": "Terror" }

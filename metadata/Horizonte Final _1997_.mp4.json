@@ -7,7 +7,7 @@
   "age": "1997",
   "desc": "",
   "director": "Paul W.S. Anderson",
-  "genre": [
+  "genres": [
     { "code" :"C-F", "name": "Ciencia ficción" },
     { "code" :"TE", "name": "Terror" }
   ],
