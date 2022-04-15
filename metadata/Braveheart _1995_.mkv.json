@@ -1,8 +1,8 @@
 {
   "title": "Braveheart",
   "file": "/sdcard/videos/Braveheart *1995*.mkv",
-  "start": "000",
-  "final": "10223",
+  "start": "023",
+  "final": "10000",
   "total": "10223.999000",
   "age": "1995",
   "desc": "",
@@ -13,7 +13,7 @@
   ],
   "volume": "100",
   "wide": "16:9",
-  "censored": "",
+  "censored": "si",
   "extra": "",
   "size": "1795980"
 }

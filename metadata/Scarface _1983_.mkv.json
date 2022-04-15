@@ -1,9 +1,9 @@
 {
   "title": "Scarface",
   "file": "/sdcard/videos/Scarface *1983*.mkv",
-  "start": "000",
+  "start": "018",
   "final": "9777",
-  "total": "9777.954000",
+  "total": "9420.954000",
   "age": "1983",
   "desc": "",
   "director": "Brian De Palma",
@@ -12,7 +12,7 @@
   ],
   "volume": "100",
   "wide": "16:9",
-  "censored": "",
+  "censored": "si",
   "extra": "",
   "size": "2346036"
 }

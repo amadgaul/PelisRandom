@@ -1,7 +1,7 @@
 {
   "title": "Brubaker",
   "file": "/sdcard/videos/Brubaker *1980*.avi",
-  "start": "000",
+  "start": "011",
   "final": "7834",
   "total": "7834.976000",
   "age": "1980",
@@ -12,7 +12,7 @@
   ],
   "volume": "100",
   "wide": "16:9",
-  "censored": "",
+  "censored": "si",
   "extra": "",
   "size": "2145436"
 }

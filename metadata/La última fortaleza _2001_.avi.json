@@ -1,7 +1,7 @@
 {
   "title": "La última fortaleza",
   "file": "/sdcard/videos/La última fortaleza *2001*.avi",
-  "start": "000",
+  "start": "022",
   "final": "7886",
   "total": "7886.432814",
   "age": "2001",
@@ -13,7 +13,7 @@
   ],
   "volume": "120",
   "wide": "16:9",
-  "censored": "",
+  "censored": "si",
   "extra": "",
   "size": "2239592"
 }
