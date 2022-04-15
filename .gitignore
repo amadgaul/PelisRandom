@@ -5,6 +5,7 @@
 *.py
 *.list
 *.txt
+*.date
 videos/
 json/
 downloads/
