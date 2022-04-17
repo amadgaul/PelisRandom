@@ -1,0 +1,18 @@
+{
+  "title": "La Gran evasión",
+  "file": "/home/son/Vídeos/LaGranEvasion.mkv",
+  "start": "000",
+  "final": "10333",
+  "total": "10333.344000",
+  "age": "1963",
+  "desc": "",
+  "director": "John Sturges",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "2409748"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Batman",
+  "file": "/home/son/Vídeos/Batman *1989*.avi",
+  "start": "012",
+  "final": "7579",
+  "total": "7579.761672",
+  "age": "1989",
+  "desc": "",
+  "director": "Tim Burton",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1658748"
+}
