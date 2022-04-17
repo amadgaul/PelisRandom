@@ -1,0 +1,18 @@
+{
+  "title": "Pesadilla en elm street",
+  "file": "/home/son/Vídeos/Pesadilla en elm street *1984*.mkv",
+  "start": "000",
+  "final": "5140",
+  "total": "5251.421000",
+  "age": "1984",
+  "desc": "",
+  "director": "Wes Craven",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "661776"
+}
