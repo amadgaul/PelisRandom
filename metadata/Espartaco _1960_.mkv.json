@@ -1,0 +1,18 @@
+{
+  "title": "Espartaco",
+  "file": "Espartaco *1960*.mkv",
+  "start": "000",
+  "final": "11314",
+  "total": "11314.861000",
+  "age": "1960",
+  "desc": "",
+  "director": "Stanley Kubrick",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1584592"
+}
