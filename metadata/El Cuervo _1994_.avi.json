@@ -1,0 +1,18 @@
+{
+  "title": "El Cuervo",
+  "file": "/home/son/Vídeos/El Cuervo *1994*.avi",
+  "start": "000",
+  "final": "5846",
+  "total": "5846.880000",
+  "age": "1994",
+  "desc": "",
+  "director": "Alex Proyas",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "717976"
+}

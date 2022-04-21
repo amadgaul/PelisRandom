@@ -1,0 +1,18 @@
+{
+  "title": "American Beauty",
+  "file": "/home/son/Vídeos/American Beauty *1999*.avi",
+  "start": "000",
+  "final": "6998",
+  "total": "6998.040000",
+  "age": "9994",
+  "desc": "",
+  "director": "Sam Mendes",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "718672"
+}
