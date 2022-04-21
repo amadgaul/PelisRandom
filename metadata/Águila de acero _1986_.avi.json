@@ -1,10 +1,10 @@
 {
   "title": "Águila de acero",
-  "file": "/sdcard/videos/Águila de acero *1986*.mp4",
+  "file": "/home/son/Vídeos/Águila de acero *1986*.avi",
   "start": "018",
-  "final": "6755",
-  "total": "6993.385933",
-  "age": "1986",
+  "final": "6993",
+  "total": "6993.319667",
+  "age": "9864",
   "desc": "",
   "director": "Sidney J. Furie",
   "genres": [
@@ -15,5 +15,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "596176"
+  "size": "1925984"
 }
