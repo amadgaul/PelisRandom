@@ -1,0 +1,18 @@
+{
+  "title": "Alien III",
+  "file": "/home/son/Vídeos/Alien III *1992*.avi",
+  "start": "000",
+  "final": "8691",
+  "total": "8691.974958",
+  "age": "1992",
+  "desc": "Ripley libera a un grupo de convictos desarmados en un desesperado intento de matar al extraterrestre que los persigue.",
+  "director": "David Fincher",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "2697420"
+}

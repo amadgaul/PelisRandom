@@ -1,0 +1,18 @@
+{
+  "title": "Sleepy Hollow",
+  "file": "/home/son/Vídeos/Sleepy Hollow *1999*.avi",
+  "start": "000",
+  "final": "6055",
+  "total": "6055.280000",
+  "age": "1999",
+  "desc": "En 1799, el detective Ichabod Crane es enviado a Sleepy Hollow para investigar un triple crimen. Las víctimas fueron brutalmente decapitadas.",
+  "director": "Tim Burton",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "716792"
+}
