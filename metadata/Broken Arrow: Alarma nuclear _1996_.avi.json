@@ -1,9 +1,9 @@
 {
   "title": "Broken Arrow: Alarma nuclear",
-  "file": "/sdcard/videos/Broken Arrow: Alarma nuclear *1996*.mp4",
-  "start": "028",
+  "file": "/home/son/Vídeos/Broken Arrow: Alarma nuclear *1996*.avi",
+  "start": "000",
   "final": "6237",
-  "total": "6237.390644",
+  "total": "6237.520000",
   "age": "1996",
   "desc": "",
   "director": "John Woo",
@@ -11,8 +11,8 @@
     { "code" :"AC", "name": "Acción" }
   ],
   "volume": "100",
-  "wide": "16:9",
+  "wide": "16:9C",
   "censored": "",
   "extra": "",
-  "size": "554464"
+  "size": "1422080"
 }
