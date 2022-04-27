@@ -1,0 +1,18 @@
+{
+  "title": "Mensaje en una botella",
+  "file": "/ssd/Mensaje en una botella *1999*.mkv",
+  "start": "006",
+  "final": "7851",
+  "total": "7851.667000",
+  "age": "1999",
+  "desc": "Una periodista divorciada encuentra una botella con una carta de amor en su interior. Intrigada, decide buscar a su autor.",
+  "director": "Luis Mandoki",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "3380328"
+}
