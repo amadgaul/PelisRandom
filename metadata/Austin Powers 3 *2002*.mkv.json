@@ -1,0 +1,18 @@
+{
+  "title": "Austin Powers 3",
+  "file": "/ssd/Austin Powers 3 *2002*.mkv",
+  "start": "000",
+  "final": "5671",
+  "total": "5671.721000",
+  "age": "2002",
+  "desc": "",
+  "director": "",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "2177932"
+}
