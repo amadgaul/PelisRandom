@@ -1,0 +1,18 @@
+{
+  "title": "Austin Powers 2",
+  "file": "/ssd/Austin Powers 2 *1999*.mkv",
+  "start": "000",
+  "final": "5702",
+  "total": "5702.740000",
+  "age": "1999",
+  "desc": "El agente secreto Austin Powers, congelado en los años 60, vuelve a la vida en los años 90 para enfrentarse con nuevos villanos y viejos enemigos.",
+  "director": "Jay Roach",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "2278524"
+}
