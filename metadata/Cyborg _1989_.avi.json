@@ -1,0 +1,18 @@
+{
+  "title": "Cyborg",
+  "file": "/ssd/Cyborg *1989*.avi",
+  "start": "000",
+  "final": "5184",
+  "total": "5184.179000",
+  "age": "1989",
+  "desc": "",
+  "director": "Albert Pyun",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1561680"
+}

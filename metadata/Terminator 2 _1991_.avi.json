@@ -1,0 +1,18 @@
+{
+  "title": "Terminator 2",
+  "file": "/ssd/Terminator 2 *1991*.avi",
+  "start": "016",
+  "final": "9204",
+  "total": "9204.945750",
+  "age": "1991",
+  "desc": "",
+  "director": "James Cameron",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9C",
+  "censored": "",
+  "extra": "",
+  "size": "2437424"
+}
