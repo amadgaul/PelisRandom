@@ -1,10 +1,10 @@
 {
-  "title": "El trueno azul",
-  "file": "/sdcard/videos/El trueno azul *1983*.mp4",
+  "title": "El Exorcista",
+  "file": "/ssd/El Exorcista *1973*.avi",
   "start": "000",
-  "final": "6554",
-  "total": "6554.566444",
-  "age": "1983",
+  "final": "7729",
+  "total": "7729.371429",
+  "age": "1973",
   "desc": "",
   "director": "",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "2299736"
+  "size": "854296"
 }

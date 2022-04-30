@@ -1,10 +1,10 @@
 {
-  "title": "El trueno azul",
-  "file": "/sdcard/videos/El trueno azul *1983*.mp4",
+  "title": "Cocoon",
+  "file": "/ssd/Cocoon *1985*.avi",
   "start": "000",
-  "final": "6554",
-  "total": "6554.566444",
-  "age": "1983",
+  "final": "6741",
+  "total": "6741.000000",
+  "age": "9854",
   "desc": "",
   "director": "",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "2299736"
+  "size": "2001048"
 }
