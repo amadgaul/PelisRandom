@@ -1,12 +1,12 @@
 {
   "title": "Robocop",
-  "file": "/home/son/Vídeos/Robocop *1987*.mkv",
+  "file": "/hd320/Robocop *1987*.mkv",
   "start": "000",
   "final": "6194",
   "total": "6194.624000",
-  "age": "9874",
+  "age": "1987",
   "desc": "",
-  "director": "",
+  "director": "Paul Verhoeven",
   "genres": [
     { "code": "", "name": "" }
   ],

@@ -1,10 +1,10 @@
 {
-  "title": "Mentiras arriesgadas",
-  "file": "/hd320/Mentiras arriesgadas *1994*.mkv",
+  "title": "Terminator",
+  "file": "/home/son/Vídeos/Terminator *1984*.mkv",
   "start": "000",
-  "final": "8518",
-  "total": "8518.080000",
-  "age": "1994",
+  "final": "6433",
+  "total": "6433.386000",
+  "age": "1984",
   "desc": "",
   "director": "",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "5930860"
+  "size": "4406880"
 }

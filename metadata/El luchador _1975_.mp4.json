@@ -1,10 +1,10 @@
 {
-  "title": "Mentiras arriesgadas",
-  "file": "/hd320/Mentiras arriesgadas *1994*.mkv",
+  "title": "El luchador",
+  "file": "/home/son/Vídeos/El luchador *1975*.mp4",
   "start": "000",
-  "final": "8518",
-  "total": "8518.080000",
-  "age": "1994",
+  "final": "5378",
+  "total": "5378.020122",
+  "age": "1975",
   "desc": "",
   "director": "",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "5930860"
+  "size": "513824"
 }
