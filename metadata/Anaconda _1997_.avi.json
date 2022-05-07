@@ -1,10 +1,10 @@
 {
-  "title": "Terminator",
-  "file": "/hd320/Terminator *1984*.mkv",
+  "title": "Anaconda",
+  "file": "/home/son/Vídeos/Anaconda *1997*.avi",
   "start": "000",
-  "final": "6433",
-  "total": "6433.386000",
-  "age": "1984",
+  "final": "5360",
+  "total": "5360.309008",
+  "age": "9974",
   "desc": "",
   "director": "",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "4406880"
+  "size": "1646592"
 }
