@@ -1,12 +1,12 @@
 {
   "title": "Superman",
   "file": "/home/son/Vídeos/Superman *1978*.avi",
-  "start": "018",
+  "start": "000",
   "final": "8233",
   "total": "8233.800000",
   "age": "1978",
   "desc": "",
-  "director": "",
+  "director": "Richard Donner",
   "genres": [
     { "code": "", "name": "" }
   ],
