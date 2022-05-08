@@ -54,4 +54,3 @@ La lista de géneros disponibles es la siguiente:
   { "code" :"ZO", "name": "Zombies" }
 ]
 ```
-[![pages-build-deployment](https://github.com/FrangaL/PelisRandom/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/FrangaL/PelisRandom/actions/workflows/pages/pages-build-deployment)
