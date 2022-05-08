@@ -1,10 +1,10 @@
 {
-  "title": "Grease",
-  "file": "/home/son/Vídeos/Grease *1978*.avi",
+  "title": "Asesinato en 8 mm",
+  "file": "/home/son/Vídeos/Asesinato en 8 mm *1999*.mkv",
   "start": "000",
-  "final": "6628",
-  "total": "6628.997375",
-  "age": "1978",
+  "final": "7399",
+  "total": "7399.475000",
+  "age": "1999",
   "desc": "",
   "director": "",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "2139884"
+  "size": "5093180"
 }
