@@ -1,7 +1,7 @@
 {
   "title": "Grease",
   "file": "/home/son/Vídeos/Grease *1978*.avi",
-  "start": "000",
+  "start": "019",
   "final": "6628",
   "total": "6628.997375",
   "age": "1978",
@@ -11,7 +11,7 @@
     { "code": "", "name": "" }
   ],
   "volume": "100",
-  "wide": "16:9",
+  "wide": "16:9C",
   "censored": "",
   "extra": "",
   "size": "2139884"

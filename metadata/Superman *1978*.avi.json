@@ -1,0 +1,18 @@
+{
+  "title": "Superman",
+  "file": "/home/son/Vídeos/Superman *1978*.avi",
+  "start": "018",
+  "final": "8233",
+  "total": "8233.800000",
+  "age": "1978",
+  "desc": "",
+  "director": "",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1401916"
+}
