@@ -1,0 +1,18 @@
+{
+  "title": "Saw",
+  "file": "/home/son/Vídeos/Saw *2004*.mkv",
+  "start": "000",
+  "final": "6162",
+  "total": "6162.304000",
+  "age": "2004",
+  "desc": "",
+  "director": "James Wan",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "2723484"
+}

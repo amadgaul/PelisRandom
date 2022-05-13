@@ -1,0 +1,18 @@
+{
+  "title": "Pesadilla en Elm Street III",
+  "file": "/home/son/Vídeos/Pesadilla en Elm Street III *1987*.avi",
+  "start": "000",
+  "final": "5551",
+  "total": "5551.400000",
+  "age": "1987",
+  "desc": "",
+  "director": "",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "717172"
+}

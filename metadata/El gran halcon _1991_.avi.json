@@ -1,0 +1,18 @@
+{
+  "title": "El gran halcón",
+  "file": "/home/son/Vídeos/El gran halcon *1991*.avi",
+  "start": "000",
+  "final": "5754",
+  "total": "5754.960000",
+  "age": "1991",
+  "desc": "",
+  "director": "Michael Lehmann",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1232912"
+}
