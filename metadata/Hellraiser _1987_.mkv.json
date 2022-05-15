@@ -1,0 +1,18 @@
+{
+  "title": "Hellraiser",
+  "file": "/home/son/Vídeos/Hellraiser *1987*.mkv",
+  "start": "000",
+  "final": "5602",
+  "total": "5602.408000",
+  "age": "1987",
+  "desc": "",
+  "director": "Clive Barker",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "7374448"
+}

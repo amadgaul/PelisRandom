@@ -1,0 +1,18 @@
+{
+  "title": "Amadeus",
+  "file": "/home/son/Vídeos/Amadeus *1984*.avi",
+  "start": "020",
+  "final": "9207",
+  "total": "9207.480000",
+  "age": "1984",
+  "desc": "",
+  "director": "Milos Forman",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1434868"
+}

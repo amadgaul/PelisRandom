@@ -1,0 +1,18 @@
+{
+  "title": "Virus",
+  "file": "/home/son/Vídeos/Virus *1999*.avi",
+  "start": "000",
+  "final": "5281",
+  "total": "5281.760000",
+  "age": "1999",
+  "desc": "",
+  "director": "John Bruno",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "1041364"
+}

@@ -1,10 +1,10 @@
 {
-  "title": "Agarralo como puedas",
-  "file": "/hd320/Agarralo como puedas *1998*.mkv",
+  "title": "Rocky II",
+  "file": "/home/son/Vídeos/Rocky II *1979*.avi",
   "start": "000",
-  "final": "5101",
-  "total": "5101.888000",
-  "age": "1998",
+  "final": "6856",
+  "total": "6856.958333",
+  "age": "1979",
   "desc": "",
   "director": "",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "2264780"
+  "size": "722860"
 }

@@ -1,0 +1,18 @@
+{
+  "title": "Wyatt Earp",
+  "file": "/home/son/Vídeos/Wyatt Earp *1994*.avi",
+  "start": "000",
+  "final": "10965",
+  "total": "10965.600000",
+  "age": "1994",
+  "desc": "",
+  "director": "",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9C",
+  "censored": "",
+  "extra": "",
+  "size": "1796096"
+}
