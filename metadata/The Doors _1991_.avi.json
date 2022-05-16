@@ -1,10 +1,10 @@
 {
-  "title": "Asesinos natos",
-  "file": "/hd320/Asesinos natos *1994*.avi",
+  "title": "The Doors",
+  "file": "/home/son/Vídeos/The Doors *1991*.avi",
   "start": "000",
-  "final": "6844",
-  "total": "6844.840000",
-  "age": "1994",
+  "final": "8060",
+  "total": "8060.960000",
+  "age": "1991",
   "desc": "",
   "director": "Oliver Stone",
   "genres": [
@@ -14,5 +14,5 @@
   "wide": "16:9",
   "censored": "",
   "extra": "",
-  "size": "2368356"
+  "size": "808996"
 }
