@@ -1,0 +1,18 @@
+{
+  "title": "Yo el halcón",
+  "file": "/home/son/Vídeos/Yo el halcon *1987*.avi",
+  "start": "000",
+  "final": "5380",
+  "total": "5380.960000",
+  "age": "1987",
+  "desc": "",
+  "director": "",
+  "genres": [
+    { "code": "", "name": "" }
+  ],
+  "volume": "100",
+  "wide": "16:9",
+  "censored": "",
+  "extra": "",
+  "size": "715872"
+}
